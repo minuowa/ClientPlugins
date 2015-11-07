@@ -1,0 +1,4 @@
+Z:\ClientPlugin\Client\bin\Release\Client.dll
+Z:\ClientPlugin\Client\bin\Release\Client.pdb
+Z:\ClientPlugin\Client\obj\Release\Client.dll
+Z:\ClientPlugin\Client\obj\Release\Client.pdb

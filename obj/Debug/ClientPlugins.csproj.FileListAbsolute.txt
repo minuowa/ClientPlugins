@@ -1,0 +1,6 @@
+Z:\ClientPlugin\ClientPlugins\bin\Debug\ClientPlugins.dll
+Z:\ClientPlugin\ClientPlugins\bin\Debug\ClientPlugins.pdb
+Z:\ClientPlugin\ClientPlugins\obj\Debug\ClientPlugins.dll
+Z:\ClientPlugin\ClientPlugins\obj\Debug\ClientPlugins.pdb
+Z:\ClientPlugin\ClientPlugins\bin\Debug\ClientPlugins.XML
+Z:\ClientPlugin\ClientPlugins\obj\Debug\ClientPlugins.csprojResolveAssemblyReference.cache
